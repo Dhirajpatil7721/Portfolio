@@ -1,0 +1,13 @@
+footer{
+    height: 100px;
+    background-color: rgb(58, 56, 56);
+    display: flex;
+    align-items: center;
+    align-content: center;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+#copytext{
+    color: black;
+    /* margin-top: 2%; */
+}
